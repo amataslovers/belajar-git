@@ -1,4 +1,7 @@
 @extends('layouts.app')
-<h1>Baru</h1>
+<<<<<<< HEAD
+=======
+<h1>Ini index</h1>
+>>>>>>> fitur_register
 @endsection
 
